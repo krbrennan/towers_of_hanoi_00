@@ -22,6 +22,7 @@ class TowersOfHanoi
           end
         end
     end
+
   end
 
   def reset
